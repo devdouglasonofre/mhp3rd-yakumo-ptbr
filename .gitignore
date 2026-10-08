@@ -1,0 +1,5 @@
+# Local work and secrets; only the shipped pack belongs in Git.
+.env
+local/
+work/
+*.tmp
